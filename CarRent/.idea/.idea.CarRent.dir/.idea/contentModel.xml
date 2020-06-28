@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aleks\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aleks\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent" t="IncludeRecursive">
+      <e p="Admin" t="Include">
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="FormDeals.cs" t="Include" />
+        <e p="FormDeals.Designer.cs" t="Include" />
+        <e p="FormDeals.resx" t="Include" />
+        <e p="FormManageCar.cs" t="Include" />
+        <e p="FormManageCar.Designer.cs" t="Include" />
+        <e p="FormManageCar.resx" t="Include" />
+        <e p="FormReservations.cs" t="Include" />
+        <e p="FormReservations.Designer.cs" t="Include" />
+        <e p="FormReservations.resx" t="Include" />
+      </e>
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CarRent.csproj" t="IncludeRecursive" />
+      <e p="CarRentDataSet.Designer.cs" t="Include" />
+      <e p="CarRentDataSet.xsc" t="Include" />
+      <e p="CarRentDataSet.xsd" t="Include" />
+      <e p="CarRentDataSet.xss" t="Include" />
+      <e p="ClassDiagram1.cd" t="Include" />
+      <e p="Classes" t="Include">
+        <e p="Customer.cs" t="Include" />
+        <e p="Database.cs" t="Include" />
+        <e p="Deal.cs" t="Include" />
+        <e p="FormControle.cs" t="Include" />
+        <e p="Reservation.cs" t="Include" />
+        <e p="Vehicle.cs" t="Include" />
+      </e>
+      <e p="Customer" t="Include">
+        <e p="FormCustomerProfile.cs" t="Include" />
+        <e p="FormCustomerProfile.Designer.cs" t="Include" />
+        <e p="FormCustomerProfile.resx" t="Include" />
+        <e p="FormCustomerReservation.cs" t="Include" />
+        <e p="FormCustomerReservation.Designer.cs" t="Include" />
+        <e p="FormCustomerReservation.resx" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

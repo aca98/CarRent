@@ -1,0 +1,40 @@
+C:\Users\Coa\source\repos\CarRent\CarRent\bin\Debug\CarRent.exe.config
+C:\Users\Coa\source\repos\CarRent\CarRent\bin\Debug\CarRent.exe
+C:\Users\Coa\source\repos\CarRent\CarRent\bin\Debug\CarRent.pdb
+C:\Users\Coa\source\repos\CarRent\CarRent\obj\Debug\CarRent.csprojAssemblyReference.cache
+C:\Users\Coa\source\repos\CarRent\CarRent\obj\Debug\CarRent.formMain.resources
+C:\Users\Coa\source\repos\CarRent\CarRent\obj\Debug\CarRent.Properties.Resources.resources
+C:\Users\Coa\source\repos\CarRent\CarRent\obj\Debug\CarRent.csproj.GenerateResource.cache
+C:\Users\Coa\source\repos\CarRent\CarRent\obj\Debug\CarRent.exe
+C:\Users\Coa\source\repos\CarRent\CarRent\obj\Debug\CarRent.pdb
+C:\Users\Coa\source\repos\CarRent\CarRent\obj\Debug\CarRent.formManageCar.resources
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\bin\Debug\CarRent.exe.config
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\bin\Debug\CarRent.exe
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\bin\Debug\CarRent.pdb
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.formMain.resources
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.formManageCar.resources
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.Properties.Resources.resources
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.exe
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.pdb
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.FormDeals.resources
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.FormReservations.resources
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.FormCustomerProfile.resources
+C:\Users\aleks\Desktop\Before System Reboot\Practice Programing\CarRent\CarRent\obj\Debug\CarRent.FormCustomerReservation.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\bin\Debug\CarRent.exe.config
+C:\Users\aleks\Desktop\CarRent\CarRent\bin\Debug\CarRent.exe
+C:\Users\aleks\Desktop\CarRent\CarRent\bin\Debug\CarRent.pdb
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.formMain.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.FormDeals.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.FormManageCar.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.FormReservations.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.FormCustomerProfile.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.FormCustomerReservation.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.FormRegister.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.FormLogIn.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.Properties.Resources.resources
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.exe
+C:\Users\aleks\Desktop\CarRent\CarRent\obj\Debug\CarRent.pdb
