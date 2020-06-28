@@ -2,7 +2,7 @@
 
 School Project
 
-CarRent is a simple rent a car app for renting various types of vehicles, it uses a SQL database and is built in C# using Windows Forms
+CarRent is a simple rent a car app for renting various types of vehicles, it uses a Access database and is built using .NET(C#,Windows Forms)
 
 When logged in as an admin you can Create, Update, Delete Vehicles, Customers, Reservations and Deals.
 
